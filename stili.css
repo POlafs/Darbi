@@ -1,39 +1,36 @@
-.stils{ 
-    font-family:Georgia, 'Times New Roman', Times, serif
-}
-    
-.centrs{
 
-    padding: 40px;
-margin-left: 50px;
-margin-top: 100px;
-margin-right: 50px;
-margin-bottom: 50px;
-background-color: aqua;
+
+.galvenais{
+    font-family: 'AR One Sans', sans-serif;
+}
+.augsa{
+background-color: black;
 
 }
-.virs{
-width:70px;
-position: relative;
-left:120px;
-top:25px;
-}
-.zem{
-    width:70px;
-    position: relative;
-    right:120px;
-    top: 130px;
-}
 
-.attels{
-    width: 300px;
-    padding-top:60px;
-  
+.parmani{
+    margin-left: 150px;
+    font-size: 150px;
+}
+.teksts{
+    margin: 150px;
+margin-top:50px
+
 
 }
-.klase{
-    float:left;
-    width: 80px;
-    position: relative;
-    
+.div1{
+height:200px;
+width:1000px;
+
+}
+.portrets{
+    margin-top:-200px;
+    margin-left:900px;
+
+}
+.karuselis{
+    justify-content: center;
+align-items: center;
+height: 20%;
+
 }
