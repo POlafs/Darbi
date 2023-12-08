@@ -7,11 +7,22 @@
 background-color: black;
 
 }
+.sakums{
 
+    display:flex;
+    justify-content:left;
+    align-items: center;
+    
+}
 .parmani{
     margin-left: 150px;
     font-size: 150px;
 }
+.prasmes{
+    margin-left: 150px;
+    font-size: 100px;
+} 
+
 .teksts{
     margin: 150px;
 margin-top:50px
@@ -24,13 +35,14 @@ width:1000px;
 
 }
 .portrets{
-    margin-top:-200px;
-    margin-left:900px;
+    position: absolute;
+    margin-top:200px;   
+    margin-left:870px;
 
 }
 .karuselis{
-    justify-content: center;
-align-items: center;
-height: 20%;
-
+    margin-top: 200px;
+    margin-left: 150px;
+    margin-right: 150px;
+  
 }
