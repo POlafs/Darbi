@@ -1,0 +1,95 @@
+
+
+.galvenais{
+    font-family: 'AR One Sans', sans-serif;
+    background-color: rgb(131, 220, 249);
+}
+.augsa{
+background-color: aqua;
+Margin-left:150px;
+Margin-right:150px
+}
+
+.sakums{
+  
+    display:flex;
+    justify-content:left;
+    align-items: center;
+  
+}
+.parmani{
+ margin-top:10px;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-size: 150px;
+    background-color: white;
+}
+.DivPrasmes{
+    margin-left:170px ;
+    margin-right: 170px;
+}
+.prasmes{
+    margin-left: 150px;
+    font-size: 100px;
+    margin-top:10px;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-size: 150px;
+    background-color: white;
+} 
+
+.teksts{
+margin-top:50px
+
+}
+.divteksts{
+    margin-top:20px;
+margin-left:90px;
+width:700px
+}
+.div1{
+    margin-left:150px;
+    height:400px;
+    width:1390px;
+    background-color: aqua;
+
+
+
+}
+.portrets{
+    position: absolute;
+    margin-top:10px;   
+    margin-left:980px;
+
+}
+.ManasIntereses{
+    position:relative;
+    margin-left: 150px;
+    margin-top:0px;
+    font-size: 100px;
+    margin-top:10px;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-size: 150px;
+    background-color: white;
+}
+.karuselis{
+    margin-top: 10px;
+    margin-bottom: 40px;
+    margin-left: 150px;
+    margin-right: 150px;
+  
+}
+.augsu{
+ display:flex;
+    justify-content:center;
+    align-items: center;
+  
+}
+.kajenediv{
+    margin-right:150px;
+    margin-left:150px;
+width:1400px;
+background-color: aqua;
+
+}
